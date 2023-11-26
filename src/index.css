@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding: 0;
+  
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  background-color: #7ea4c0;
+  
+
+  color: #222;
+
+}
+li{
+  list-style-type: none;
+}
+h1{
+  font-size: 40px;
+  font-weight: 900;
+}
+
+.dis-box{
+  width: 20%;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+  display: flex;
+}
